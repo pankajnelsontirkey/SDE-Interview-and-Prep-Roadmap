@@ -34,27 +34,27 @@ Progress bars and counts are generated from checklist states when you commit cha
 
 <summary><strong>View topics and checklist</strong></summary>
 
-- [x] **Agent Fundamentals and Decision-Making** **`P1`**
+- [ ] **Agent Fundamentals and Decision-Making** **`P1`**
 
-  - [x] [Agent autonomy levels and choosing the minimum sufficient autonomy](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Agent autonomy levels and choosing the minimum sufficient autonomy.md>) **`P1`**
+  - [ ] [Agent autonomy levels and choosing the minimum sufficient autonomy](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Agent autonomy levels and choosing the minimum sufficient autonomy.md>) **`P1`**
 
-  - [x] [Core agent loop: observe, decide, act, inspect results, and stop](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Core agent loop: observe, decide, act, inspect results and stop.md>) **`P0`**
+  - [ ] [Core agent loop: observe, decide, act, inspect results, and stop](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Core agent loop: observe, decide, act, inspect results and stop.md>) **`P0`**
 
-  - [x] [Deterministic workflow nodes vs. model-selected actions](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Deterministic workflow nodes vs. model-selected actions.md>) **`P1`**
+  - [ ] [Deterministic workflow nodes vs. model-selected actions](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Deterministic workflow nodes vs. model-selected actions.md>) **`P1`**
 
-  - [x] [Human-in-the-loop reviews, approvals, and escalation](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Human-in-the-loop reviews, approvals and escalation.md>) **`P0`**
+  - [ ] [Human-in-the-loop reviews, approvals, and escalation](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Human-in-the-loop reviews, approvals and escalation.md>) **`P0`**
 
-  - [x] [LLM workflows vs. autonomous agents: when each is appropriate](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/LLM workflows vs. autonomous agents: when each is appropriate.md>) **`P0`**
+  - [ ] [LLM workflows vs. autonomous agents: when each is appropriate](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/LLM workflows vs. autonomous agents: when each is appropriate.md>) **`P0`**
 
-  - [x] [Planning: task breakdown, dependency graphs, and replanning](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Planning: task breakdown, dependency graphs and replanning.md>) **`P0`**
+  - [ ] [Planning: task breakdown, dependency graphs, and replanning](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Planning: task breakdown, dependency graphs and replanning.md>) **`P0`**
 
-  - [x] [Reasoning-and-acting patterns (e.g., ReAct) and tool-use loops](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Reasoning-and-acting patterns (e.g., ReAct) and tool-use loops.md>) **`P0`**
+  - [ ] [Reasoning-and-acting patterns (e.g., ReAct) and tool-use loops](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Reasoning-and-acting patterns (e.g., ReAct) and tool-use loops.md>) **`P0`**
 
-  - [x] [Reflection, critique, self-correction, and their limitations](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Reflection, critique, self-correction, and their limitations.md>) **`P1`**
+  - [ ] [Reflection, critique, self-correction, and their limitations](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Reflection, critique, self-correction, and their limitations.md>) **`P1`**
 
-  - [x] [Short-term context vs. persistent long-term memory](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Short-term context vs. persistent long-term memory.md>) **`P1`**
+  - [ ] [Short-term context vs. persistent long-term memory](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Short-term context vs. persistent long-term memory.md>) **`P1`**
 
-  - [x] [Stop conditions, turn budgets, iteration limits, and fallback paths](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Stop conditions, turn budgets, iteration limits, and fallback paths.md>) **`P1`**
+  - [ ] [Stop conditions, turn budgets, iteration limits, and fallback paths](<./Agentic AI, LLM Engineering, and AI System Design/Agent Fundamentals and Decision-Making/Stop conditions, turn budgets, iteration limits, and fallback paths.md>) **`P1`**
 
 - [ ] **Agentic Frameworks and Orchestration** **`P1`**
 
@@ -770,15 +770,15 @@ Progress bars and counts are generated from checklist states when you commit cha
 
 <summary><strong>View topics and checklist</strong></summary>
 
-- [x] [ACID properties](./Databases/ACID%20properties/Overview.md) **`P0`**
+- [ ] [ACID properties](./Databases/ACID%20properties/Overview.md) **`P0`**
 
-  - [x] [Atomicity](./Databases/ACID%20properties/Atomicity.md) **`P1`**
+  - [ ] [Atomicity](./Databases/ACID%20properties/Atomicity.md) **`P1`**
 
-  - [x] [Consistency](./Databases/ACID%20properties/Consistency.md) **`P1`**
+  - [ ] [Consistency](./Databases/ACID%20properties/Consistency.md) **`P1`**
 
-  - [x] [Durability](./Databases/ACID%20properties/Durability.md) **`P1`**
+  - [ ] [Durability](./Databases/ACID%20properties/Durability.md) **`P1`**
 
-  - [x] [Isolation](./Databases/ACID%20properties/Isolation.md) **`P1`**
+  - [ ] [Isolation](./Databases/ACID%20properties/Isolation.md) **`P1`**
 
 - [ ] **Database design and optimization** **`P1`**
 
@@ -812,51 +812,51 @@ Progress bars and counts are generated from checklist states when you commit cha
 
     - [ ] Key-value **`P1`**
 
-- [x] [Relational databases (SQL)](./Databases/Relational%20databases%20%28SQL%29/Overview.md) **`P0`**
+- [ ] [Relational databases (SQL)](./Databases/Relational%20databases%20%28SQL%29/Overview.md) **`P0`**
 
-  - [x] [Database Constraints](./Databases/Database%20Constraints/Overview.md) **`P1`**
+  - [ ] [Database Constraints](./Databases/Database%20Constraints/Overview.md) **`P1`**
 
-    - [x] [Check constraint](./Databases/Database%20Constraints/Check%20constraint.md) **`P1`**
+    - [ ] [Check constraint](./Databases/Database%20Constraints/Check%20constraint.md) **`P1`**
 
-    - [x] [Default constraint](./Databases/Database%20Constraints/Default%20constraint.md) **`P1`**
+    - [ ] [Default constraint](./Databases/Database%20Constraints/Default%20constraint.md) **`P1`**
 
-    - [x] [Foreign key](./Databases/Database%20Constraints/Foreign%20key.md) **`P1`**
+    - [ ] [Foreign key](./Databases/Database%20Constraints/Foreign%20key.md) **`P1`**
 
-    - [x] [Primary key](./Databases/Database%20Constraints/Primary%20key.md) **`P1`**
+    - [ ] [Primary key](./Databases/Database%20Constraints/Primary%20key.md) **`P1`**
 
-    - [x] [Unique constraint](./Databases/Database%20Constraints/Unique%20constraint.md) **`P1`**
+    - [ ] [Unique constraint](./Databases/Database%20Constraints/Unique%20constraint.md) **`P1`**
 
-  - [x] [Joins](./Databases/Joins/Overview.md) **`P0`**
+  - [ ] [Joins](./Databases/Joins/Overview.md) **`P0`**
 
-    - [x] [Cross joins](./Databases/Joins/Cross%20joins.md) **`P0`**
+    - [ ] [Cross joins](./Databases/Joins/Cross%20joins.md) **`P0`**
 
-    - [x] [Inner joins](./Databases/Joins/Inner%20joins.md) **`P0`**
+    - [ ] [Inner joins](./Databases/Joins/Inner%20joins.md) **`P0`**
 
-    - [x] [Outer joins (left, right, full)](./Databases/Joins/Outer%20joins%20%28left%2C%20right%2C%20full%29.md) **`P0`**
+    - [ ] [Outer joins (left, right, full)](./Databases/Joins/Outer%20joins%20%28left%2C%20right%2C%20full%29.md) **`P0`**
 
-  - [x] [Normalization forms](./Databases/Normalization%20forms/Overview.md) **`P0`**
+  - [ ] [Normalization forms](./Databases/Normalization%20forms/Overview.md) **`P0`**
 
-    - [x] [Boyce-Codd Normal Form (BCNF)](./Databases/Normalization%20forms/Boyce-Codd%20Normal%20Form%20%28BCNF%29.md) **`P1`**
+    - [ ] [Boyce-Codd Normal Form (BCNF)](./Databases/Normalization%20forms/Boyce-Codd%20Normal%20Form%20%28BCNF%29.md) **`P1`**
 
-    - [x] [First Normal Form (1NF)](./Databases/Normalization%20forms/First%20Normal%20Form%20%281NF%29.md) **`P1`**
+    - [ ] [First Normal Form (1NF)](./Databases/Normalization%20forms/First%20Normal%20Form%20%281NF%29.md) **`P1`**
 
-    - [x] [Second Normal Form (2NF)](./Databases/Normalization%20forms/Second%20Normal%20Form%20%282NF%29.md) **`P1`**
+    - [ ] [Second Normal Form (2NF)](./Databases/Normalization%20forms/Second%20Normal%20Form%20%282NF%29.md) **`P1`**
 
-    - [x] [Third Normal Form (3NF)](./Databases/Normalization%20forms/Third%20Normal%20Form%20%283NF%29.md) **`P1`**
+    - [ ] [Third Normal Form (3NF)](./Databases/Normalization%20forms/Third%20Normal%20Form%20%283NF%29.md) **`P1`**
 
-  - [x] [SQL Data Control Language (DCL)](./Databases/SQL%20Data%20Control%20Language%20%28DCL%29/Overview.md) **`P0`**
+  - [ ] [SQL Data Control Language (DCL)](./Databases/SQL%20Data%20Control%20Language%20%28DCL%29/Overview.md) **`P0`**
 
-    - [x] [GRANT statement](./Databases/SQL%20Data%20Control%20Language%20%28DCL%29/GRANT%20statement.md) **`P1`**
+    - [ ] [GRANT statement](./Databases/SQL%20Data%20Control%20Language%20%28DCL%29/GRANT%20statement.md) **`P1`**
 
-    - [x] [REVOKE statement](./Databases/SQL%20Data%20Control%20Language%20%28DCL%29/REVOKE%20statement.md) **`P1`**
+    - [ ] [REVOKE statement](./Databases/SQL%20Data%20Control%20Language%20%28DCL%29/REVOKE%20statement.md) **`P1`**
 
-  - [x] [SQL Data Definition Language (DDL)](./Databases/SQL%20Data%20Definition%20Language%20%28DDL%29/Overview.md) **`P0`**
+  - [ ] [SQL Data Definition Language (DDL)](./Databases/SQL%20Data%20Definition%20Language%20%28DDL%29/Overview.md) **`P0`**
 
-    - [x] [ALTER statement](./Databases/SQL%20Data%20Definition%20Language%20%28DDL%29/ALTER%20statement.md) **`P1`**
+    - [ ] [ALTER statement](./Databases/SQL%20Data%20Definition%20Language%20%28DDL%29/ALTER%20statement.md) **`P1`**
 
-    - [x] [CREATE statement](./Databases/SQL%20Data%20Definition%20Language%20%28DDL%29/CREATE%20statement.md) **`P1`**
+    - [ ] [CREATE statement](./Databases/SQL%20Data%20Definition%20Language%20%28DDL%29/CREATE%20statement.md) **`P1`**
 
-    - [x] [DROP statement](./Databases/SQL%20Data%20Definition%20Language%20%28DDL%29/DROP%20statement.md) **`P1`**
+    - [ ] [DROP statement](./Databases/SQL%20Data%20Definition%20Language%20%28DDL%29/DROP%20statement.md) **`P1`**
 
   - [ ] SQL Data Manipulation Language (DML) **`P0`**
 
